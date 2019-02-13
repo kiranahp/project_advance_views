@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pychache__
+myenvy
+db.sqlite3
+.DB_Store
